@@ -1,0 +1,48 @@
+
+/* styles.css */
+
+.body-class {
+  background-color: #f8f0f4; /* Light Pink */
+  color: #333; /* Dark Gray Font Color */
+}
+
+.header-class {
+  background-color: #8db580; /* Sage Green */
+  color: #fff; /* White Font Color */
+}
+
+.nav-class {
+  background-color: #a2c3c7; /* Light Blue */
+  color: #fff; /* White Font Color */
+}
+
+.nav-class a {
+  color: #fff; /* White Font Color for Links */
+}
+
+.nav-class a:hover {
+  text-decoration: underline; /* Underline on Hover */
+}
+
+.nav-class a.active {
+  font-weight: bold; /* Bold for Active Page Link */
+}
+
+.title-class, .section-title-class {
+  color: #4285f4; /* Blue Color for Headings */
+}
+
+.text-class {
+  color: #555; /* Dark Gray Font Color */
+}
+
+.image-class {
+  border: 2px solid #ccc; /* Light Gray Border */
+}
+
+.footer-class {
+  background-color: #fff; /* White Background */
+  color: #333; /* Dark Gray Font Color */
+  text-align: center;
+  padding: 10px;
+}
